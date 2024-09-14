@@ -1,0 +1,66 @@
+body{
+    background-color: #3c40c6;
+
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    padding: auto;
+    border-radius: 30px;
+}
+
+.card-main{
+    background-color: rgb(255, 255, 255);
+    padding: auto;
+    border-radius: 30px;
+    transform: translateY(100px);
+}
+
+.col:image{
+    visibility: hidden;
+}
+
+image{
+    z-index: 9;
+}
+
+input,#btn,#gender,#image{
+    margin-top: 20px;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 30px;
+}
+
+.table{
+    margin-top: 50px;
+}
+
+.tblbtn{
+    margin-right: 10px;
+}
+
+.inputthings{
+    font-size: larger;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.updateimage{
+    margin-left: 25%;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    z-index: -10;
+    position: fixed;
+}
+
+.Logo{
+    width: 500px;
+}
+
+.v2{
+    margin-top: 500px;
+}
